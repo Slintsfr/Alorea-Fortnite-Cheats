@@ -22,7 +22,7 @@
 ## And Way More
 
 
-## How TO Fix
+## How To Fix
 If The Loader Will Not Open Or The Cheats Dont Work Try This:
 - Check For Updates
 - Check If the Cheats Are Offline
